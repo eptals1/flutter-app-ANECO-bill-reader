@@ -30,6 +30,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_ml_kit: ^0.8.0  # Google ML Kit package for text recognition
+  image_picker: ^0.8.5+3  # To pick images from the gallery or camera
+  permission_handler: ^10.2.0  # To handle permissions (if needed)
+
+
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -38,9 +44,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  google_ml_kit: ^0.16.0
-  flutter_tts: ^3.7.0
-  image_picker: ^1.1.2
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
