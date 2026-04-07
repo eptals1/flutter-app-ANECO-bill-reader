@@ -1,6 +1,7 @@
 # aneco_bill_reader
 
-A new Flutter project.
+A mobile app build for visually impaired persons helping them get important information on their electric bills through AI audio output.
+
 
 ## Getting Started
 
