@@ -1,6 +1,6 @@
-# aneco_bill_reader
+## Bill_reader
 
-A mobile app build for visually impaired persons helping them get important information on their electric bills through AI audio output.
+A mobile app build for partially blind persons helping them get important information on their bills through AI audio output.
 
 
 ## Getting Started
